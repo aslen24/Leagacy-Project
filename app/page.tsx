@@ -4,6 +4,7 @@ import Head from 'next/head';
 import TopHeader from './TopHeader/page';
 import Footer from './Footer/page';
 
+
 const Home: React.FC = () => {
   return (
     <div>
